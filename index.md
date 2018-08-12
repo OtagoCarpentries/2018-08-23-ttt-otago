@@ -1,8 +1,8 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
-carpentry: "swc"    # what kind of Carpentry (must be either "dc" or "swc")
-venue: "University of Otago"        # brief name of host site without address (e.g., "Euphoric State University")
+carpentry: ""    # what kind of Carpentry (must be either "dc" or "swc")
+venue: "Instructor Training - University of Otago"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Otago Museum, Hutton Theater, 419 Great King St, North Dunedin, Dunedin 9016"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "nz"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
